@@ -1,4 +1,4 @@
-# WSL2 Webserver SSL Connect
+# WSL2 Webserver
 
 This repository provides general instructions for the installation of WSL2 (Windows Subsystem for Linux) on a Windows 10 or 11 machine.
 
